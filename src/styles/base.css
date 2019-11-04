@@ -152,3 +152,53 @@ background:rgba(129, 129, 129, 0.2);
   background: radial-gradient(ellipse at bottom, #5091DD 0%, #030617 100%);
   border-bottom: 1px solid white;
 }
+
+/* ////////////// FORM CSS*/
+
+.formContainer{
+  height:800px;
+  width:500px;
+  margin:auto;
+  text-align: center;
+  
+
+}
+form{
+  display: flex;
+  flex-direction: column;
+  margin-top:250px;
+  background:rgba(16, 16, 16, 0.5)
+  /* background: radial-gradient(ellipse at bottom, #5091DD 0%, #030617 100%); */
+}
+input{
+  height:40px;
+  margin:20px;
+  color:white;
+  font-size: 25px;
+  background: rgba(0,0,0,0.5);
+  padding-left: 10px;
+}
+button{
+  height:40px;
+  width:200px;
+  margin:auto;
+  background:rgba(0,0,0,0.5);
+  color:white;
+  font-size: 25px;
+  margin-bottom: 30px;
+}
+button:hover{
+  cursor: pointer;
+  
+}
+.formTitle{
+  Color:white;
+}
+.homeLink{
+  margin-top:20px;
+  font-size:30px;
+
+}
+.homeLink:hover{
+  background: radial-gradient(ellipse at bottom, #5091DD 0%, #030617 100%);
+}

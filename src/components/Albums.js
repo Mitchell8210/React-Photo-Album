@@ -33,8 +33,11 @@ useEffect((e)=>{
             </div>
             </Link>
          ))}
+         <Link to={"/Form"}>
+                <div className="formLink">Add a picture to the Collection</div>
+            </Link>
     </div>
-
+            
 
 
   </div>

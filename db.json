@@ -1,298 +1,252 @@
 {
   "pictures": [
-      {
-          "id": 1,
-          "image":"https://images.pexels.com/photos/1274260/pexels-photo-1274260.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId": 1,
-          "name": "Space Jar"
-          
-      },
-      {
-          "id":2,
-          "image":"https://images.pexels.com/photos/355956/pexels-photo-355956.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId": 1,
-          "name": "Space Being"
-      },
-      {
-          "id":3,
-          "image":"https://images.pexels.com/photos/2166/flight-sky-earth-space.jpg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId": 1,
-          "name": "Space Ship"
-      },
-      {
-          "id":4,
-          "image":"https://images.pexels.com/photos/39649/solar-flare-sun-eruption-energy-39649.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId": 1,
-          "name": "Space Sun"
-      },
-      {
-          "id":5,
-          "image":"https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId": 1,
-          "name": "Space Galaxy"
-      },
-      {
-          "id":6,
-          "image":"https://images.pexels.com/photos/903961/nature-stars-night-sky-903961.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId": 1,
-          "name": "Spinning Space"
-      },
-
-      {
-          "id":7,
-          "image":"https://images.pexels.com/photos/63294/autos-technology-vw-multi-storey-car-park-63294.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":2,
-          "name": "Stackin' Cars"
-      },
-
-      {
-          "id":8,
-          "image":"https://images.pexels.com/photos/39501/lamborghini-brno-racing-car-automobiles-39501.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":2,
-          "name": "Lambo Flex"
-      },
-
-      {
-          "id":9,
-          "image":"https://images.pexels.com/photos/1210622/pexels-photo-1210622.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":2,
-          "name": "Stacks on Stacks"
-      },
-
-      {
-          "id":10,
-          "image":"https://images.pexels.com/photos/919073/pexels-photo-919073.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":2,
-          "name": "The Shadow"
-      },
-
-      {
-          "id":11,
-          "image":"https://images.pexels.com/photos/164634/pexels-photo-164634.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":2,
-          "name": "Line 'O' Benz"
-      },
-
-      {
-          "id":12,
-          "image":"https://images.pexels.com/photos/326259/pexels-photo-326259.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":2,
-          "name": "Bentalicious"
-      },
-
-      {
-          "id":13,
-          "image":"https://images.pexels.com/photos/40753/military-raptor-jet-f-22-airplane-40753.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":3,
-          "name": "Danger Zone"
-      },
-
-      {
-          "id":14,
-          "image":"https://images.pexels.com/photos/534249/pexels-photo-534249.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":3,
-          "name": "Mr. Shiny"
-      },
-
-      {
-          "id":15,
-          "image":"https://images.pexels.com/photos/2921540/pexels-photo-2921540.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":3,
-          "name": "Makin' Clouds"
-      },
-
-      {
-          "id":16,
-          "image":"https://images.pexels.com/photos/76959/supersonic-fighter-aircraft-jet-jet-fighter-76959.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":3,
-          "name": "I be Sneakin'"
-      },
-
-      {
-          "id":17,
-          "image":"https://images.pexels.com/photos/459402/pexels-photo-459402.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":3,
-          "name": "Engine face"
-      },
-
-      {
-          "id":18,
-          "image":"https://images.pexels.com/photos/206881/pexels-photo-206881.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":3,
-          "name": "The Warthog"
-      },
-
-      {
-          "id":19,
-          "image":"https://images.pexels.com/photos/1440476/pexels-photo-1440476.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":4,
-          "name": "Osaka Temple"
-      },
-
-      {
-          "id":20,
-          "image":"https://images.pexels.com/photos/1822605/pexels-photo-1822605.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":4,
-          "name": "Fushimi Inari"
-      },
-
-      {
-          "id":21,
-          "image":"https://images.pexels.com/photos/1108297/pexels-photo-1108297.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":4,
-          "name": "Random Alley"
-      },
-
-      {
-          "id":22,
-          "image":"https://images.pexels.com/photos/981364/pexels-photo-981364.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":4,
-          "name": "Hanami"
-      },
-
-      {
-          "id":23,
-          "image":"https://images.pexels.com/photos/115603/pexels-photo-115603.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":4,
-          "name": "Bamboo Forrest"
-      },
-
-      {
-          "id":24,
-          "image":"https://images.pexels.com/photos/34142/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":4,
-          "name": "Busy Night"
-      },
-
-      {
-          "id":25,
-          "image":"https://images.pexels.com/photos/210158/pexels-photo-210158.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":5,
-          "name": "Super Circle"
-      },
-
-      {
-          "id":26,
-          "image":"https://images.pexels.com/photos/373965/pexels-photo-373965.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":5,
-          "name": "Cloudy Day"
-      },
-
-      {
-          "id":27,
-          "image":"https://images.pexels.com/photos/1770808/pexels-photo-1770808.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":5,
-          "name": "The White Room"
-      },
-
-      {
-          "id":28,
-          "image":"https://images.pexels.com/photos/894443/pexels-photo-894443.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":5,
-          "name": "Stackin' Houses"
-      },
-
-      {
-          "id":29,
-          "image":"https://images.pexels.com/photos/442420/books-shelves-architecture-wood-442420.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":5,
-          "name": "The Library"
-      },
-
-      {
-          "id":30,
-          "image":"https://images.pexels.com/photos/789380/pexels-photo-789380.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":5,
-          "name": "Hill City"
-      },
-
-      {
-          "id":31,
-          "image":"https://images.pexels.com/photos/277253/pexels-photo-277253.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":6,
-          "name": "Spices"
-      },
-
-      {
-          "id":32,
-          "image":"https://images.pexels.com/photos/264537/pexels-photo-264537.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":6,
-          "name": "Fruits and Veggies"
-      },
-
-      {
-          "id":33,
-          "image":"https://images.pexels.com/photos/156114/pexels-photo-156114.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":6,
-          "name": "Smokin' these Meats"
-      },
-
-      {
-          "id":34,
-          "image":"https://images.pexels.com/photos/461428/pexels-photo-461428.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":6,
-          "name": "Green Tea"
-      },
-
-      {
-          "id":35,
-          "image":"https://images.pexels.com/photos/784632/pexels-photo-784632.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":6,
-          "name": "Flour your hands"
-      },
-
-      {
-          "id":36,
-          "image":"https://images.pexels.com/photos/954677/pexels-photo-954677.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-          "albumId":6,
-          "name": "Witches Cauldrons"
-      }
-
-      
+    {
+      "id": 1,
+      "image": "https://images.pexels.com/photos/1274260/pexels-photo-1274260.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 1,
+      "name": "Space Jar"
+    },
+    {
+      "id": 2,
+      "image": "https://images.pexels.com/photos/355956/pexels-photo-355956.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 1,
+      "name": "Space Being"
+    },
+    {
+      "id": 3,
+      "image": "https://images.pexels.com/photos/2166/flight-sky-earth-space.jpg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 1,
+      "name": "Space Ship"
+    },
+    {
+      "id": 4,
+      "image": "https://images.pexels.com/photos/39649/solar-flare-sun-eruption-energy-39649.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 1,
+      "name": "Space Sun"
+    },
+    {
+      "id": 5,
+      "image": "https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 1,
+      "name": "Space Galaxy"
+    },
+    {
+      "id": 6,
+      "image": "https://images.pexels.com/photos/903961/nature-stars-night-sky-903961.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 1,
+      "name": "Spinning Space"
+    },
+    {
+      "id": 7,
+      "image": "https://images.pexels.com/photos/63294/autos-technology-vw-multi-storey-car-park-63294.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 2,
+      "name": "Stackin' Cars"
+    },
+    {
+      "id": 8,
+      "image": "https://images.pexels.com/photos/39501/lamborghini-brno-racing-car-automobiles-39501.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 2,
+      "name": "Lambo Flex"
+    },
+    {
+      "id": 9,
+      "image": "https://images.pexels.com/photos/1210622/pexels-photo-1210622.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 2,
+      "name": "Stacks on Stacks"
+    },
+    {
+      "id": 10,
+      "image": "https://images.pexels.com/photos/919073/pexels-photo-919073.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 2,
+      "name": "The Shadow"
+    },
+    {
+      "id": 11,
+      "image": "https://images.pexels.com/photos/164634/pexels-photo-164634.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 2,
+      "name": "Line 'O' Benz"
+    },
+    {
+      "id": 12,
+      "image": "https://images.pexels.com/photos/326259/pexels-photo-326259.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 2,
+      "name": "Bentalicious"
+    },
+    {
+      "id": 13,
+      "image": "https://images.pexels.com/photos/40753/military-raptor-jet-f-22-airplane-40753.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 3,
+      "name": "Danger Zone"
+    },
+    {
+      "id": 14,
+      "image": "https://images.pexels.com/photos/534249/pexels-photo-534249.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 3,
+      "name": "Mr. Shiny"
+    },
+    {
+      "id": 15,
+      "image": "https://images.pexels.com/photos/2921540/pexels-photo-2921540.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 3,
+      "name": "Makin' Clouds"
+    },
+    {
+      "id": 16,
+      "image": "https://images.pexels.com/photos/76959/supersonic-fighter-aircraft-jet-jet-fighter-76959.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 3,
+      "name": "I be Sneakin'"
+    },
+    {
+      "id": 17,
+      "image": "https://images.pexels.com/photos/459402/pexels-photo-459402.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 3,
+      "name": "Engine face"
+    },
+    {
+      "id": 18,
+      "image": "https://images.pexels.com/photos/206881/pexels-photo-206881.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 3,
+      "name": "The Warthog"
+    },
+    {
+      "id": 19,
+      "image": "https://images.pexels.com/photos/1440476/pexels-photo-1440476.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 4,
+      "name": "Osaka Temple"
+    },
+    {
+      "id": 20,
+      "image": "https://images.pexels.com/photos/1822605/pexels-photo-1822605.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 4,
+      "name": "Fushimi Inari"
+    },
+    {
+      "id": 21,
+      "image": "https://images.pexels.com/photos/1108297/pexels-photo-1108297.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 4,
+      "name": "Random Alley"
+    },
+    {
+      "id": 22,
+      "image": "https://images.pexels.com/photos/981364/pexels-photo-981364.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 4,
+      "name": "Hanami"
+    },
+    {
+      "id": 23,
+      "image": "https://images.pexels.com/photos/115603/pexels-photo-115603.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 4,
+      "name": "Bamboo Forrest"
+    },
+    {
+      "id": 24,
+      "image": "https://images.pexels.com/photos/34142/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 4,
+      "name": "Busy Night"
+    },
+    {
+      "id": 25,
+      "image": "https://images.pexels.com/photos/210158/pexels-photo-210158.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 5,
+      "name": "Super Circle"
+    },
+    {
+      "id": 26,
+      "image": "https://images.pexels.com/photos/373965/pexels-photo-373965.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 5,
+      "name": "Cloudy Day"
+    },
+    {
+      "id": 27,
+      "image": "https://images.pexels.com/photos/1770808/pexels-photo-1770808.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 5,
+      "name": "The White Room"
+    },
+    {
+      "id": 28,
+      "image": "https://images.pexels.com/photos/894443/pexels-photo-894443.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 5,
+      "name": "Stackin' Houses"
+    },
+    {
+      "id": 29,
+      "image": "https://images.pexels.com/photos/442420/books-shelves-architecture-wood-442420.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 5,
+      "name": "The Library"
+    },
+    {
+      "id": 30,
+      "image": "https://images.pexels.com/photos/789380/pexels-photo-789380.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 5,
+      "name": "Hill City"
+    },
+    {
+      "id": 31,
+      "image": "https://images.pexels.com/photos/277253/pexels-photo-277253.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 6,
+      "name": "Spices"
+    },
+    {
+      "id": 32,
+      "image": "https://images.pexels.com/photos/264537/pexels-photo-264537.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 6,
+      "name": "Fruits and Veggies"
+    },
+    {
+      "id": 33,
+      "image": "https://images.pexels.com/photos/156114/pexels-photo-156114.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 6,
+      "name": "Smokin' these Meats"
+    },
+    {
+      "id": 34,
+      "image": "https://images.pexels.com/photos/461428/pexels-photo-461428.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 6,
+      "name": "Green Tea"
+    },
+    {
+      "id": 35,
+      "image": "https://images.pexels.com/photos/784632/pexels-photo-784632.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 6,
+      "name": "Flour your hands"
+    },
+    {
+      "id": 36,
+      "image": "https://images.pexels.com/photos/954677/pexels-photo-954677.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "albumId": 6,
+      "name": "Witches Cauldrons"
+    }
   ],
-
   "albums": [
-      {
-          "id":1,
-          "name":"Space",
-          "coverPhoto":"https://images.pexels.com/photos/220201/pexels-photo-220201.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
-
-      },
-
-      {
-          "id":2,
-          "name":"Cars",
-          "coverPhoto":"https://images.pexels.com/photos/70912/pexels-photo-70912.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
-
-      },
-
-      {
-          "id":3,
-          "name":"Planes",
-          "coverPhoto":"https://images.pexels.com/photos/47044/aircraft-landing-reach-injection-47044.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
-
-      },
-
-      {
-          "id":4,
-          "name":"Japan",
-          "coverPhoto":"https://images.pexels.com/photos/301614/pexels-photo-301614.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
-
-      },
-
-      {
-          "id":5,
-          "name":"Architecture",
-          "coverPhoto":"https://images.pexels.com/photos/1874636/pexels-photo-1874636.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
-
-      },
-
-      {
-          "id":6,
-          "name": "Food",
-          "coverPhoto":"https://images.pexels.com/photos/1833349/pexels-photo-1833349.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-
-      }
+    {
+      "id": 1,
+      "name": "Space",
+      "coverPhoto": "https://images.pexels.com/photos/220201/pexels-photo-220201.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+    },
+    {
+      "id": 2,
+      "name": "Cars",
+      "coverPhoto": "https://images.pexels.com/photos/70912/pexels-photo-70912.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+    },
+    {
+      "id": 3,
+      "name": "Planes",
+      "coverPhoto": "https://images.pexels.com/photos/47044/aircraft-landing-reach-injection-47044.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+    },
+    {
+      "id": 4,
+      "name": "Japan",
+      "coverPhoto": "https://images.pexels.com/photos/301614/pexels-photo-301614.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+    },
+    {
+      "id": 5,
+      "name": "Architecture",
+      "coverPhoto": "https://images.pexels.com/photos/1874636/pexels-photo-1874636.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+    },
+    {
+      "id": 6,
+      "name": "Food",
+      "coverPhoto": "https://images.pexels.com/photos/1833349/pexels-photo-1833349.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    }
   ]
 }
-
