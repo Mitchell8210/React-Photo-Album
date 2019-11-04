@@ -1,0 +1,154 @@
+html {
+  box-sizing: border-box;
+  height: 100%;
+  background: radial-gradient(ellipse at bottom, #5091DD 0%, #030617 100%)
+
+
+}
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: radial-gradient(ellipse at bottom, #5091DD 0%, #030617 100%);
+  position: relative;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+/*///// ALBUM COVERS */
+.container{
+ display: block;
+ text-align: center;
+ 
+
+}
+.albumsHeader{
+  color:white;
+  font-size: 50px;
+  background: radial-gradient(ellipse at bottom, #5091DD 0%, #030617 100%);
+  border-bottom: 1px solid white;
+}
+.albums{
+  
+  padding:50px;
+  width:1100px;
+  background: radial-gradient(ellipse at bottom, #5091DD 0%, #030617 100%);
+  color:white;
+  font-size: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  margin:auto;
+}
+
+.covers{
+  margin:15px;
+}
+
+.albumName{
+  background: rgba(129, 129, 129, 0.2);
+  border-bottom: 1px solid white;
+}
+
+/* ///////PICTURES------ */
+
+.innerContainer{
+  color:white;
+  display: flex;
+  justify-content: center;
+
+}
+.albumList{
+  margin-left:30px;
+  font-size: 30px;
+  margin-top:80px;
+  margin-right:0px;
+}
+
+.names{
+ margin-bottom: 20px;
+ background:rgba(129, 129, 129, 0.2);
+ padding:5px;
+}
+.names:hover{
+  cursor: pointer;
+  background: radial-gradient(ellipse at bottom, #5091DD 0%, #030617 100%);
+  border-bottom: 1px solid white;
+}
+a{
+ color:white;
+ text-decoration: none;
+}
+
+
+/* ////////------- SINGLE IMAGE DISPLAY---- */
+.singleDisplay{
+  display: flex;
+  align-items: center;
+  margin:auto;
+  width:1200px;
+  
+}
+.singlePicture{
+  margin:auto;
+}
+.previousImage, .nextImage{
+  font-size: 30px;
+  background:rgba(129, 129, 129, 0.2);
+}
+
+.previousImage:hover, .nextImage:hover{
+  background:rgba(129, 129, 129, 0.2);
+}
+
+.previousImage{
+position: absolute;
+left:10px;
+top:40%;
+}
+.nextImage{
+position: absolute;
+right:10px;
+top:40%;
+}
+.previousImage:hover, .nextImage:hover{
+  background: radial-gradient(ellipse at bottom, #5091DD 0%, #030617 100%);
+  border-bottom: 1px solid white;
+}
+.goBack{
+margin:auto;
+text-align: center;
+font-size: 25px;
+color:white;
+text-align: center;
+width:200px;
+background:rgba(129, 129, 129, 0.2);
+}
+.goBack:hover{
+  background: radial-gradient(ellipse at bottom, #5091DD 0%, #030617 100%);
+}
+.backButtons{
+  padding-bottom: 50px;
+  padding-top:30px;
+}
+
+.imageTitle{
+  text-align: center;
+  color:white;
+  font-size: 40px;
+  margin-bottom: 50px;
+  margin-top:50px;
+  background: radial-gradient(ellipse at bottom, #5091DD 0%, #030617 100%);
+  border-bottom: 1px solid white;
+}
